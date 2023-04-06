@@ -259,10 +259,9 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 # -----------------------------------------------------------------------------
 
 scholar:
-  style: apa
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: Yoshida
+  first_name: Satoshi
 
   style: apa
   locale: en
