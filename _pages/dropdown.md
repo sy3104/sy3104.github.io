@@ -8,6 +8,9 @@ children:
     - title: Papers
       permalink: /papers/
     - title: divider
-    - title: Presentations
-      permalink: /presentations/
+    - title: International conferences
+      permalink: /international/    
+    - title: divider
+    - title: Domestic conferences
+      permalink: /domestic/
 ---

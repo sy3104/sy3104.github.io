@@ -88,8 +88,8 @@
         {% else %}
           {{entry.journal}} <b>{{entry.volume}}</b>, {{entry.pages}} ({{entry.year}}).
         {% endif %}
-      {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em>.
+      {% elsif entry.type == "presentation" %}
+        <a href="{{entry.url}}">{{entry.journal}}</a>, {{entry.location}}, {{entry.date}} {{entry.month}} {{entry.year}}.
       {% endif %}
       </div>
     {% endif %}
