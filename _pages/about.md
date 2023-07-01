@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at [Department of Physics, The University of Tokyo](https://www.phys.s.u-tokyo.ac.jp/en/) supervised by Prof. Mio Murao ([group website](https://www.eve.phys.s.u-tokyo.ac.jp/indexe.htm)).
+I am a PhD student at [Department of Physics, The University of Tokyo](https://www.phys.s.u-tokyo.ac.jp/en/) supervised by Prof. Mio Murao ([group website](https://www.eve.phys.s.u-tokyo.ac.jp)).
 
 My research topic is on
 - Quantum information theory
