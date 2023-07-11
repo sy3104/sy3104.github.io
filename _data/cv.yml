@@ -108,6 +108,11 @@
 - title: Seminars
   type: time_table
   contents:
+    - title: Universal inversion of unitary and isometry operations&#58; deterministic and exact algorithms
+      institution: University of Bristol
+      year: Jul. 2023
+      description:
+        - QIT Seminar
     - title: <a href="https://kcik.ug.edu.pl/event/universal-inversion-of-unitary-and-isometry-operations-deterministic-and-exact-algorithms/">Universal inversion of unitary and isometry operations&#58; deterministic and exact algorithms</a>
       institution: University of Gdańsk
       year: Feb. 2023
