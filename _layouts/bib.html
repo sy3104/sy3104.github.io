@@ -29,8 +29,33 @@
   <div id="{{entry.key}}" class="col-sm-8">
     {% if entry.type == "thesis" %}
       {{reference}}
+    {% elsif entry.type == "seminar" %}
+      <div class="title">
+        {% if entry.url %}
+          <a href="{{entry.url}}">{{entry.title}}</a>
+        {% else %}
+          {{entry.title}}
+        {% endif %}
+        {% if entry.slide %}
+          [<a href="{{entry.slide}}">slide</a>]
+        {% endif %}
+        {% if entry.video %}
+          [<a href="{{entry.video}}">video</a>]
+        {% endif %}
+      </div>
+      <div class="periodical">
+        {{entry.location}}, {{entry.date}} {{entry.month}} {{entry.year}}.
+      </div>
     {% else %}
-      <div class="title">{{entry.title}}</div>
+      <div class="title">
+        {{entry.title}}
+        {% if entry.slide %}
+          [<a href="{{entry.slide}}">slide</a>]
+        {% endif %}
+        {% if entry.video %}
+          [<a href="{{entry.video}}">video</a>]
+        {% endif %}
+      </div>
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}

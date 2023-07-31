@@ -105,25 +105,6 @@
       description:
         - <a href="https://www.u-tokyo.ac.jp/en/academics/wings.html">a World-leading Innovative Graduate Study (WINGS) Program</a>
 
-- title: Seminars
-  type: time_table
-  contents:
-    - title: Universal inversion of unitary and isometry operations&#58; deterministic and exact algorithms
-      institution: University of Bristol
-      year: Jul. 2023
-      description:
-        - QIT Seminar
-    - title: <a href="https://kcik.ug.edu.pl/event/universal-inversion-of-unitary-and-isometry-operations-deterministic-and-exact-algorithms/">Universal inversion of unitary and isometry operations&#58; deterministic and exact algorithms</a>
-      institution: University of Gdańsk
-      year: Feb. 2023
-      description:
-        - ICTQT Seminar
-    - title: <a href="https://www.iqoqi-vienna.at/detail/event/talk-by-satoshi-yoshida-probabilistic-exact-construction-of-decoders-from-encoding-black-boxes">Probabilistic exact construction of decoders from encoding black boxes</a>
-      institution: IQOQI Vienna
-      year: Jul. 2022
-      description:
-        - <a href="https://www.youtube.com/watch?v=zLmhY2qCd8o&list=PLtIs3eEC6pzKTj6l-MC5VCT7Uo7cim17m&index=16&ab_channel=IQOQIVienna">YouTube</a>
-
 - title: Outreach
   type: time_table
   contents:
