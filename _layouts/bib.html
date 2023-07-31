@@ -30,7 +30,7 @@
     {% endif %}
   {% endif %}
 
-  <div id="{{entry.key}}" {% if entry.type == "seminar" %} class="col-sm-10" {% elif entry.type == "presentation" %} class="col-sm-8" {% else %} class="col-sm-7" {% endif}>
+  <div id="{{entry.key}}" class="{% if entry.type == "seminar" %}col-sm-10{% elif entry.type == "presentation" %}col-sm-8{% else %}col-sm-7{% endif %}">
     {% if entry.type == "thesis" %}
       {{reference}}
     {% elsif entry.type == "seminar" %}
