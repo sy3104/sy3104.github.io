@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: presentations
 nav: true
 nav_order: 6
 dropdown: true
