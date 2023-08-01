@@ -31,7 +31,7 @@
   {% endif %}
 
   {% if entry.type == "seminar" %}
-    <div id="{{entry.key}}" class="col-sm-8">
+    <div id="{{entry.key}}" class="col-sm-10">
       {% if entry.type == "thesis" %}
         {{reference}}
       {% elsif entry.type == "seminar" %}
@@ -154,7 +154,7 @@
       </div>
       {% endif %}
     </div>
-  {% elsif entry.type == "presentation"}
+  {% elsif entry.type == "presentation" %}
     <div id="{{entry.key}}" class="col-sm-8">
       {% if entry.type == "thesis" %}
         {{reference}}
