@@ -20,3 +20,4 @@ I am a PhD student at [Department of Physics, The University of Tokyo](https://w
 My research topic is on
 - Quantum information theory
 - Higher-order quantum transformations
+- Quantum error correction
