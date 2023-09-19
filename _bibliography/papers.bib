@@ -3,6 +3,21 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{yoshida2023reversing,
+  abbr={arXiv},
+  selected={true},
+  bibtex_show={true},
+  title={{Reversing Unknown Qubit-Unitary Operation, Deterministically and Exactly}},
+  author={Yoshida, Satoshi and Soeda, Akihito and Murao, Mio},
+  journal={Phys. Rev. Lett.},
+  volume={131},
+  pages={120602},
+  year={2023},
+  arxiv={2209.02907},
+  abstract={We report a deterministic and exact protocol to reverse any unknown qubit-unitary operation, which simulates the time inversion of a closed qubit system. To avoid known no-go results on universal deterministic exact unitary inversion, we consider the most general class of protocols transforming unknown unitary operations within the quantum circuit model, where the input unitary operation is called multiple times in sequence and fixed quantum circuits are inserted between the calls. In the proposed protocol, the input qubit-unitary operation is called 4 times to achieve the inverse operation, and the output state in an auxiliary system can be reused as a catalyst state in another run of the unitary inversion. We also present the simplification of the semidefinite programming for searching the optimal deterministic unitary
+inversion protocol for an arbitrary dimension presented by M. T. Quintino and D. Ebler [Quantum 6, 679 (2022)]. We show a method to reduce the large search space representing all possible protocols, which provides a useful tool for analyzing higher-order quantum transformations for unitary operations.},
+}
+
 @article{yoshida2023universal,
   abbr={Quantum},
   selected={true},
@@ -19,25 +34,13 @@
   abstract={Isometry operations encode the quantum information of the input system to a larger output system, while the corresponding decoding operation would be an inverse operation of the encoding isometry operation. Given an encoding operation as a black box from a d-dimensional system to a D-dimensional system, we propose a universal protocol for isometry inversion that constructs a decoder from multiple calls of the encoding operation. This is a probabilistic but exact protocol whose success probability is independent of D. For a qubit (d=2) encoded in n qubits, our protocol achieves an exponential improvement over any tomography-based or unitary-embedding method, which cannot avoid D-dependence. We present a quantum operation that converts multiple parallel calls of any given isometry operation to random parallelized unitary operations, each of dimension d. Applied to our setup, it universally compresses the encoded quantum information to a D-independent space, while keeping the initial quantum information intact. This compressing operation is combined with a unitary inversion protocol to complete the isometry inversion. We also discover a fundamental difference between our isometry inversion protocol and the known unitary inversion protocols by analyzing isometry complex conjugation and isometry transposition. General protocols including indefinite causal order are searched using semidefinite programming for any improvement in the success probability over the parallel protocols. We find a sequential "success-or-draw" protocol of universal isometry inversion for d=2 and D=3, thus whose success probability exponentially improves over parallel protocols in the number of calls of the input isometry operation for the said case.},
 }
 
-@article{yoshida2022reversing,
-  abbr={arXiv},
-  selected={true},
-  bibtex_show={true},
-  title={Reversing unknown qubit-unitary operation, deterministically and exactly},
-  author={Yoshida, Satoshi and Soeda, Akihito and Murao, Mio},
-  journal={arXiv preprint arXiv:2209.02907},
-  arxiv={2209.02907},
-  year={2022},
-  abstract={We report a deterministic and exact protocol to reverse any unknown qubit-unitary operation, which simulates the time inversion of a closed qubit system. To avoid known no-go results on universal deterministic exact unitary inversion, we consider the most general class of protocols transforming unknown unitary operations within the quantum circuit model, where the input unitary operation is called multiple times in sequence and fixed quantum circuits are inserted between the calls. In the proposed protocol, the input qubit-unitary operation is called four times to achieve the inverse operation, and the output state in an auxiliary system can be reused as a catalyst state in another run of the unitary inversion. We also present the semidefinite programming (SDP) for searching a Choi matrix corresponding a deterministic exact unitary inversion protocol for an arbitrary dimension. By utilizing the SU(d)×SU(d) symmetry on the Choi matrix, we show a method to reduce the large search space representing all possible protocols, which provides a useful tool for analyzing higher-order quantum transformations for unitary operations.},
-}
-
 @article{yoshida2022thermodynamic,
   abbr={Phys. Rev. Res.},
   selected={true},
   bibtex_show={true},
   title={Thermodynamic role of main reaction pathway and multi-body information flow in membrane transport},
   author={Yoshida, Satoshi and Okada, Yasushi and Muneyuki, Eiro and Ito, Sosuke},
-  journal={Physical Review Research},
+  journal={Phys. Rev. Res.},
   volume={4},
   number={2},
   pages={023229},
