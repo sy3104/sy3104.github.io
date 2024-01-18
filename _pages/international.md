@@ -3,7 +3,7 @@ layout: page
 permalink: /international/
 title: International conferences
 description: Presentations at international conferences.
-years: [2023,2022,2021]
+years: [2024,2023,2022,2021]
 nav: false
 nav_order: 1
 ---

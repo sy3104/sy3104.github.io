@@ -3,7 +3,7 @@ layout: page
 permalink: /papers/
 title: Papers
 description: Publications in reversed chronological order.
-years: [2023,2022]
+years: [2024,2023,2022]
 nav: false
 nav_order: 1
 ---
