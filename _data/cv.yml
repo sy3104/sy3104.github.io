@@ -40,6 +40,24 @@
       description:
         - as a part of Research Assistant of Q-Leap Human resources development
 
+- title: Fellowships
+  type: time_table
+  contents:
+    - title: <a href="https://www.jsps.go.jp/english/e-pd/">JSPS Research Fellowships for Young Scientists (DC1)</a>
+      institution: Japan Society for the Promotion of Science
+      description: JSPS KAKENHI Grant Number 23KJ0734, 4,200,000 JPY for three years.
+      year: Apr. 2023 - Mar. 2026
+    - title: DAIKIN Fellowship
+      institution: Institute for Physics of Intelligence, The University of Tokyo
+      description: "Grant: 1,500,000 JPY for 14 months (February 2022 - March 2023)."
+      year: Feb. 2022 - Mar. 2026
+    - title: Research Assistant of Q-Leap Human resources development
+      institution: The University of Tokyo
+      year: Apr. 2021 - present
+    - title: <a href="https://www.s.u-tokyo.ac.jp/en/FoPM/">Forefront Physics and Mathematics Program to Drive Transformation (FoPM)</a>
+      institution: The University of Tokyo
+      year: Aug. 2021 - Jan. 2022
+
 - title: Awards and Scholarships
   type: time_table
   contents:
@@ -65,24 +83,6 @@
       year: Jul. 2016
     - title: <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">Silver medal in the 46th International Physics Olympiad (IPhO 2015)</a>
       year: Jul. 2015
-
-- title: Fellowships
-  type: time_table
-  contents:
-    - title: <a href="https://www.jsps.go.jp/english/e-pd/">JSPS Research Fellowships for Young Scientists (DC1)</a>
-      institution: Japan Society for the Promotion of Science
-      description: JSPS KAKENHI Grant Number 23KJ0734, 4,200,000 JPY for three years.
-      year: Apr. 2023 - Mar. 2026
-    - title: DAIKIN Fellowship
-      institution: Institute for Physics of Intelligence, The University of Tokyo
-      description: "Grant: 1,500,000 JPY for 14 months (February 2022 - March 2023)."
-      year: Feb. 2022 - Mar. 2026
-    - title: Research Assistant of Q-Leap Human resources development
-      institution: The University of Tokyo
-      year: Apr. 2021 - present
-    - title: <a href="https://www.s.u-tokyo.ac.jp/en/FoPM/">Forefront Physics and Mathematics Program to Drive Transformation (FoPM)</a>
-      institution: The University of Tokyo
-      year: Aug. 2021 - Jan. 2022
 
 - title: Outreach
   type: time_table
