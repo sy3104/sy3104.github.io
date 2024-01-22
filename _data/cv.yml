@@ -24,9 +24,12 @@
       description:
         - "Supervisor: Prof. Mio Murao"
         - "Thesis: Higher-order quantum algorithms for universally inverting unitary and isometry operations"
+        - Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">The School of Science Encouragement Award (Master program)</a>
     - title: Bachelor of Science
       institution: Department of Physics, Faculty of Science, The University of Tokyo
       year: Apr. 2017 - Mar. 2021
+      desciprion:
+        - Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award (Undergraduate program)</a>
 
 - title: Fellowships
   type: time_table
@@ -61,9 +64,6 @@
 - title: Awards and Scholarships
   type: time_table
   contents:
-    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">The School of Science Encouragement Award (Master program)</a>
-      institution: The University of Tokyo
-      year: Mar. 2023
     - title: <a href="https://www.tsqs2022.org/assets/pdf/PosterAwardsWinners.pdf">Poster Award in the 2nd International Symposium on Trans-Scale Quantum Science</a>
       institution: TSQS2022 Organizing Committee
       year: Nov. 2022
@@ -71,9 +71,6 @@
       year: Feb. 2022
     - title: <a href="https://cmpss.jp/forepast/ss2021/awards.php">Best Poster Award in the 66th Condensed Matter Physics Summer School (物性若手夏の学校)</a>
       year: Aug. 2021
-    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award (Undergraduate program)</a>
-      institution: The University of Tokyo
-      year: Mar. 2021
     - title: <a href="https://www.s.u-tokyo.ac.jp/ja/info/8151/">Study and Visit Abroad Program (SVAP)</a>
       institution: Faculty of Science, The University of Tokyo
       year: Mar. 2020
