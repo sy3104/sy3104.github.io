@@ -71,9 +71,11 @@
   contents:
     - title: <a href="https://www.jsps.go.jp/english/e-pd/">JSPS Research Fellowships for Young Scientists (DC1)</a>
       institution: Japan Society for the Promotion of Science
+      description: JSPS KAKENHI Grant Number 23KJ0734, 4,200,000 JPY for three years.
       year: Apr. 2023 - Mar. 2026
     - title: DAIKIN Fellowship
       institution: Institute for Physics of Intelligence, The University of Tokyo
+      description: "Grant: 1,500,000 JPY for 14 month (February 2022 - March 2023)."
       year: Feb. 2022 - Mar. 2026
     - title: Research Assistant of Q-Leap Human resources development
       institution: The University of Tokyo
@@ -86,8 +88,8 @@
   type: time_table
   contents:
     - title: <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2019/">Physics Lab. 2019</a> and <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2020/about.html">2020</a>
-      institution: Present the basics of the quantum information at the school festival of the University of Tokyo.
+      description: Present the basics of the quantum information at the school festival of the University of Tokyo.
       year: May 2019, May 2020
     - title: <a href="http://www.jpho.jp/index_jpho.html">The Committee of Japan Physics Olympiad</a>
-      institution: Work as a tutor for candidate high school students for the International Physics Olympiad.
+      description: Work as a tutor for candidate high school students for the International Physics Olympiad.
       year: Sep. 2017 - Aug. 2020
