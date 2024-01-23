@@ -21,3 +21,7 @@ My research topic is on
 - Quantum information theory
 - Higher-order quantum transformations
 - Quantum error correction
+using the technical skills based on
+- Semidefinite programming
+- Group theory, Representation theory
+- Stabilizer simulations
