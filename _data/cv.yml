@@ -1,14 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Satoshi Yoshida
     - name: Affiliation
       value: Department of Physics, Graduate School of Science, The University of Tokyo
     - name: Address
       value: Hongo 7-3-1, Bunkyo-ku, Tokyo 113-0033 Japan
     - name: Email
-      value: satoshi.yoshida [at] phys.s.u-tokyo.ac.jp
+      value: satoshiyoshida.phys [at] gmail.com
 
 - title: Education
   type: time_table
