@@ -30,6 +30,13 @@
       year: Apr. 2017 - Mar. 2021
       description: Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award</a>
 
+- title: Technical Competitions
+  type: map
+  contents:
+    - title: Horizon Quantum Computing Hackathon
+      year: November 27, 2023 - December 2, 2023
+      description: Invited to participate in the hackathon organized by Horizon Quantum Computing.
+
 - title: Fellowships
   type: time_table
   contents:
