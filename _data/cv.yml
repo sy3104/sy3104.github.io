@@ -30,13 +30,6 @@
       year: Apr. 2017 - Mar. 2021
       description: Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award</a>
 
-- title: Technical Competitions
-  type: time_table
-  contents:
-    - title: Horizon Quantum Computing Hackathon
-      year: 2023
-      description: Invited to participate in the hackathon organized by Horizon Quantum Computing (Nov. 27, 2023 - Dec. 2, 2023).
-
 - title: Fellowships
   type: time_table
   contents:
@@ -54,6 +47,15 @@
     - title: <a href="https://www.s.u-tokyo.ac.jp/en/FoPM/">Forefront Physics and Mathematics Program to Drive Transformation (FoPM)</a>
       institution: The University of Tokyo
       year: Aug. 2021 - Jan. 2022
+
+- title: Working Experience
+  type: time_table
+  contents:
+    - title: Student Researcher at Quantum Error Correction Protocols Team in Google Quantum AI
+      institution: Google Japan G.K.
+      year: 2024
+      description:
+        - 12 weeks (4th March 2024 - 24th May 2024)
 
 - title: Teaching Experience
   type: time_table
@@ -86,6 +88,13 @@
       year: Jul. 2016
     - title: <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">Silver medal in the 46th International Physics Olympiad (IPhO 2015)</a>
       year: Jul. 2015
+
+- title: Technical Competitions
+  type: time_table
+  contents:
+    - title: Horizon Quantum Computing Hackathon
+      year: 2023
+      description: Invited to participate in the hackathon organized by Horizon Quantum Computing (Nov. 27, 2023 - Dec. 2, 2023).
 
 - title: Outreach
   type: time_table
