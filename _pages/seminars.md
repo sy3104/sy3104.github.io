@@ -2,7 +2,6 @@
 layout: page
 permalink: /seminars/
 title: Seminars
-description: Presentations at seminars.
 nav: false
 nav_order: 1
 ---
