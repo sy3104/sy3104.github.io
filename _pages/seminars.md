@@ -10,8 +10,6 @@ nav_order: 1
 <!-- _pages/seminars.md -->
 <div class="publications">
 
-{% for p in bibliography.seminars %}
-  {{p}}
-{% endfor %}
+{% bibliography -f seminars %}
 
 </div>
