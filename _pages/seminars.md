@@ -10,6 +10,6 @@ nav_order: 1
 <!-- _pages/seminars.md -->
 <div class="publications">
 
-{% bibliography -f seminars %}
+{% bibliography -f seminars -q @*[]* %}
 
 </div>
