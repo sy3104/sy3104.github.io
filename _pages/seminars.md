@@ -3,13 +3,14 @@ layout: page
 permalink: /seminars/
 title: Seminars
 description: Presentations at seminars.
-years: [2024,2023,2022]
 nav: false
 nav_order: 1
 ---
 <!-- _pages/seminars.md -->
 <div class="publications">
 
-{% bibliography -f seminars %}
+<ol>
+  <li>  Universal, deterministic, and exact protocol to reverse qubit-unitary and qubit-encoding isometry operations, Quantum Foundations Seminar, Perimeter Institute, 19 oct 2023.
+</ol>
 
 </div>
