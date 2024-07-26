@@ -10,9 +10,6 @@ nav_order: 1
 <!-- _pages/seminars.md -->
 <div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f seminars -q @*[year={{y}}]* %}
-{% endfor %}
+{% bibliography -f seminars %}
 
 </div>
