@@ -32,6 +32,7 @@ nav_order: 1
 <h2>Posters</h2>
 
 <ol reversed>
+  <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one correspondence between deterministic port-based teleportation and unitary estimation," <a href="https://quantum-innovation.riken.jp/">Quantum Innovation 2024</a>, Tokyo (Japan), 22 October 2024. </li>
   <li> Satoshi Yoshida, Akihito Soeda, Mio Murao, "Optimal protocols for universal adjointation of isometry operations," <a href="https://tqc-conference.org">19th Conference On the Theory of Quantum Computation, Communication and Cryptography (TQC 2024)</a>, Okinawa (Japan), 9 September 2024. </li>
   <li> Satoshi Yoshida, Shiro Tamiya, Hayata Yamasaki, "Concatenate codes, save qubits," <a href="https://teruo41.github.io/aqis2024sw/">AQIS2024 Satellite Workshop on Fault-Tolerant Quantum Computing</a>, Sapporo (Japan), 31 August 2024. </li>
   <li> Tatsuki Odake, Satoshi Yoshida, Mio Murao, "Analytical lower bound on the number of queries to a black-box unitary operation in deterministic exact transformations of unknown unitary operations," <a href="http://aqis-conf.org/2024">24th Asian Quantum Information Science Conference (AQIS 2024)</a>, Sapporo (Japan), 27 August 2024. </li>
