@@ -776,7 +776,7 @@ Our proofs make use of group representation theory methods, which may find appli
     <div id="odake2024analytical" class="col-sm-7">
       
         <div class="title">
-          Analytical lower bound on the number of queries to a black-box unitary operation in deterministic exact transformations of unknown unitary operations
+          Analytical lower bound on query complexity for transformations of unknown unitary operations
         </div>
         <div class="author">
           
@@ -853,7 +853,7 @@ Our proofs make use of group representation theory methods, which may find appli
       <!-- Hidden abstract block -->
       
       <div class="abstract hidden">
-        <p>Several counter-intuitive go-theorems have recently been shown for transformations of unknown unitary operations; deterministic and exact complex conjugation, inversion, and transposition of a general d-dimensional unknown unitary operation are implementable with a finite number of queries of the black-box unitary operation. However, the minimum numbers of the required queries are not known except for d=2 unitary inversion and unitary transposition (numerical) and unitary conjugation (analytic). In this work, we derive complementary no-go theorems for deterministic and exact implementations of inversion and transposition of a d-dimensional unknown unitary operation under certain numbers of queries. The obtained no-go theorem indicates that the analytical lower bound of the number of queries for unitary inversion is d^2 and that for unitary transposition is 4 for d=2 and d+3 for d≥3. We have developed a new framework that utilizes differentiation to obtain the analytical lower bounds on the number of queries to the black-box unitary operation required to implement a transformation given by a general differentiable function mapping a unitary operation to another unitary operation, which reproduces the lower bound of the number of queries for unitary complex conjugation d−1. As a corollary, we show the relationship between the tightness of the lower bounds and the existence of optimal catalytic transformations, which is a new aspect recently identified in the study of deterministic and exact unitary inversion. Furthermore, we extend our framework to the probabilistic setting where the transformation is required to succeed with a certain probability, thereby showing a possible tradeoff relation between query numbers and the required success probability.</p>
+        <p>Recent developments have revealed deterministic and exact protocols for performing complex conjugation, inversion, and transposition of a general d-dimensional unknown unitary operation using a finite number of queries to a black-box unitary operation. In this work, we establish analytical lower bounds for the query complexity of unitary inversion, transposition, and complex conjugation. Specifically, our lower bound of d^2 for unitary inversion demonstrates the asymptotic optimality of the deterministic exact inversion protocol, which operates with O(d^2) queries. We introduce a novel framework utilizing differentiation to derive these lower bounds on query complexity for general differentiable functions f: \mathrmSU(d)\to \mathrmSU(d). As a corollary, we prove that a catalytic protocol – a new concept recently noted in the study of exact unitary inversion – is impossible for unitary complex conjugation. Furthermore, we extend our framework to the probabilistic setting, where transformations must succeed with a certain probability, revealing a potential trade-off between the number of queries and the required success probability.</p>
       </div>
       
 
@@ -861,7 +861,7 @@ Our proofs make use of group representation theory methods, which may find appli
       
       <div class="bibtex hidden">
         <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">odake2024analytical</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{{Analytical lower bound on the number of queries to a black-box unitary operation in deterministic exact transformations of unknown unitary operations}}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{{Analytical lower bound on query complexity for transformations of unknown unitary operations}}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Odake, Tatsuki and Yoshida, Satoshi and Murao, Mio}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span><span class="p">,</span>
 <span class="p">}</span></code></pre></figure>
@@ -1451,7 +1451,7 @@ inversion protocol for an arbitrary dimension presented by M. T. Quintino and D.
     <footer class="fixed-bottom">
       <div class="container mt-0">
         © Copyright 2024 Satoshi  Yoshida. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
-Last updated: October 25, 2024.
+Last updated: November 28, 2024.
       </div>
     </footer>
 
