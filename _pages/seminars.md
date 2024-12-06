@@ -9,6 +9,7 @@ nav_order: 1
 <div class="publications">
 
 <ol reversed>
+  <li>  "One-to-one correspondence between deterministic port-based teleportation and unitary estimation", QICI seminar, The University of Hong Kong, 6 December 2024. </li>
   <li>  "Deterministic and exact protocols for unitary inversion: Go and no-go results", Grup d’Informació Quàntica (GIQ), Universitat Autònoma de Barcelona, 11 July 2024. </li>
   <li>  "Deterministic and exact protocols for unitary inversion: Go and no-go results", QIT group, The Institute of Photonic Sciences (ICFO), 10 July 2024. </li>
   <li>  "Universal adjointation of isometry operations using transformation of quantum supermaps", Quantum Software Lab, The University of Edinburgh, 29 February 2024. </li>
