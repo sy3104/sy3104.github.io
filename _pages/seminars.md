@@ -9,6 +9,7 @@ nav_order: 1
 <div class="publications">
 
 <ol reversed>
+  <li>  "Analytical lower bound on query complexity for universal transformation of unitary operations", QuSoft seminar, The University of Amsterdam, 20 February 2025. </li>
   <li>  "One-to-one correspondence between deterministic port-based teleportation and unitary estimation", QICI seminar, The University of Hong Kong, 6 December 2024. </li>
   <li>  "Deterministic and exact protocols for unitary inversion: Go and no-go results", Grup d’Informació Quàntica (GIQ), Universitat Autònoma de Barcelona, 11 July 2024. </li>
   <li>  "Deterministic and exact protocols for unitary inversion: Go and no-go results", QIT group, The Institute of Photonic Sciences (ICFO), 10 July 2024. </li>
