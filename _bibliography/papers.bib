@@ -10,6 +10,7 @@
   year={2024},
   arxiv={2409.18420},
   abstract={Quantum theory is consistent with a computational model permitting black-box operations to be applied in an indefinite causal order, going beyond the standard circuit model of computation. The quantum switch -- the simplest such example -- has been shown to provide numerous information-processing advantages. Here, we prove that the action of the quantum switch on two $n$-qubit quantum channels cannot be simulated deterministically and exactly by any causally ordered quantum circuit that uses $M$ calls to one channel and one call to the other, if $M\leq \max(2, 2^n-1)$. This demonstrates an exponential enhancement in quantum query complexity provided by indefinite causal order.},
+  slide={aqis2024_switch_simulation.pdf},
 }
 
 @article{bavaresco2024can,
@@ -70,6 +71,7 @@ Our proofs make use of group representation theory methods, which may find appli
   year={2024},
   arxiv={2402.09606},
   abstract={The essential requirement for fault-tolerant quantum computation (FTQC) is the total protocol design to achieve a fair balance of all the critical factors relevant to its practical realization, such as the space overhead, the threshold, and the modularity. A major obstacle in realizing FTQC with conventional protocols, such as those based on the surface code and the concatenated Steane code, has been the space overhead, i.e., the required number of physical qubits per logical qubit. Protocols based on high-rate quantum low-density parity-check (LDPC) codes gather considerable attention as a way to reduce the space overhead, but problematically, the existing fault-tolerant protocols for such quantum LDPC codes sacrifice the other factors. Here we construct a new fault-tolerant protocol to meet these requirements simultaneously based on more recent progress on the techniques for concatenated codes rather than quantum LDPC codes, achieving a constant space overhead, a high threshold, and flexibility in modular architecture designs. In particular, under a physical error rate of 0.1%, our protocol reduces the space overhead to achieve the logical CNOT error rates 10^{−10} and 10^{−24} by more than 90% and 97%, respectively, compared to the protocol for the surface code. Furthermore, our protocol achieves the threshold of 2.4% under a conventional circuit-level error model, substantially outperforming that of the surface code. The use of concatenated codes also naturally introduces abstraction layers essential for the modularity of FTQC architectures. These results indicate that the code-concatenation approach opens a way to significantly save qubits in realizing FTQC while fulfilling the other essential requirements for the practical protocol design.},
+  slide={tqc2024_concatenate_code.pdf}
 }
 
 @article{yoshida2024universal,
@@ -81,6 +83,7 @@ Our proofs make use of group representation theory methods, which may find appli
   year={2024},
   arxiv={2401.10137},
   abstract={Identification of possible transformations of quantum objects including quantum states and quantum operations is indispensable in developing quantum algorithms. Universal transformations, defined as input-independent transformations, appear in various quantum applications. Such is the case for universal transformations of unitary operations. However, extending these transformations to non-unitary operations is nontrivial and largely unresolved. Addressing this, we introduce isometry adjointation protocols that convert an input isometry operation into its adjoint operation, which include both unitary operation and quantum state transformations. The paper details the construction of parallel and sequential isometry adjointation protocols, derived from unitary inversion protocols using quantum combs, and achieving optimal approximation error. This error is shown to be independent of the output dimension of the isometry operation. In particular, we explicitly obtain an asymptotically optimal parallel protocol achieving an approximation error ε=Θ(d^2/n), where d is the input dimension of the isometry operation and n is the number of calls of the isometry operation. The research also extends to isometry inversion and universal error detection, employing semidefinite programming to assess optimal performances. The findings suggest that the optimal performance of general protocols in isometry adjointation and universal error detection is not dependent on the output dimension, and that indefinite causal order protocols offer advantages over sequential ones in isometry inversion and universal error detection.},
+  slide={aqis2024_isometry_adjointation.pdf},
 }
 
 @article{yoshida2023reversing,
@@ -97,6 +100,7 @@ Our proofs make use of group representation theory methods, which may find appli
   doi={10.1103/PhysRevLett.131.120602},
   abstract={We report a deterministic and exact protocol to reverse any unknown qubit-unitary operation, which simulates the time inversion of a closed qubit system. To avoid known no-go results on universal deterministic exact unitary inversion, we consider the most general class of protocols transforming unknown unitary operations within the quantum circuit model, where the input unitary operation is called multiple times in sequence and fixed quantum circuits are inserted between the calls. In the proposed protocol, the input qubit-unitary operation is called 4 times to achieve the inverse operation, and the output state in an auxiliary system can be reused as a catalyst state in another run of the unitary inversion. We also present the simplification of the semidefinite programming for searching the optimal deterministic unitary
 inversion protocol for an arbitrary dimension presented by M. T. Quintino and D. Ebler [Quantum 6, 679 (2022)]. We show a method to reduce the large search space representing all possible protocols, which provides a useful tool for analyzing higher-order quantum transformations for unitary operations.},
+  slide={tqc2023_unitary_inversion.pdf},
 }
 
 @article{yoshida2023universal,
