@@ -380,7 +380,7 @@
         {% if entry.slide contains '://' %}
         <a href="{{ entry.slide }}" class="btn btn-sm z-depth-0" role="button">Slide</a>
         {% else %}
-        <a href="https://sy3104.github.io/assets/pdf/{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slide</a>
+        <a href="{{ entry.slide | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slide</a>
         {% endif %}
       {% endif %}
       {% if entry.video %}
