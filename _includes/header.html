@@ -104,20 +104,6 @@
                 </button>
               </li>
               {%- endif %}
-              
-              <!-- Multiple language button -->
-              <div class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    {% raw %}{% if site.active_lang == "en" %}Language{% elsif site.active_lang == "ja" %}言語{% endif %}{% endraw %}
-                </button>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    {% raw %}{% for lang in site.languages %}{% endraw %}
-                        <a class="dropdown-item" href="{% raw %}{{ page.url | localize_url: lang }}{% endraw %}">
-                            {% raw %}{% if lang == "en" %}English{% elsif lang == "ja" %}日本語{% endif %}{% endraw %}
-                        </a>
-                    {% raw %}{% endfor %}{% endraw %}
-                </div>
-              </div>
             </ul>
           </div>
         </div>
