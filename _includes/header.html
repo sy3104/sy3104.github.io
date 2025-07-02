@@ -104,7 +104,8 @@
                 </button>
               </li>
               {%- endif %}
-
+              
+              <!-- Multiple language button -->
               <div class="dropdown">
                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     {% raw %}{% if site.active_lang == "en" %}Language{% elsif site.active_lang == "ja" %}言語{% endif %}{% endraw %}
@@ -116,7 +117,7 @@
                         </a>
                     {% raw %}{% endfor %}{% endraw %}
                 </div>
-            </div>
+              </div>
             </ul>
           </div>
         </div>
