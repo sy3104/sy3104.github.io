@@ -170,6 +170,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-polyglot
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-link-attributes
@@ -344,3 +345,12 @@ mdb:
 medium_zoom:
   version: "1.0.8"
   integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
+
+# Multiple languages (Polyglot)
+languages: ["en", "ja"]
+default_lang: "en"
+exclude_from_localization: ["assets", "javascript", "css"]
+
+polyglot:
+  content_url: "/:lang"
+  lang_fallback: "en"
