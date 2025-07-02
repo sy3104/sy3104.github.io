@@ -17,6 +17,7 @@ nav_order: 1
 <h2>Contributed talks</h2>
 
 <ol reversed>
+  <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one Correspondence between Deterministic Port-Based Teleportation and Unitary Estimation," <a href="https://sites.google.com/view/beyondiid13">13th Beyond IID in Information Theory </a>, Garching, (Germany), 18 July 2025. </li>
   <li> Tatsuki Odake, Satoshi Yoshida, Mio Murao, "Analytical lower bound on the number of queries to a black-box unitary operation in deterministic exact transformations of unknown unitary operations," <a href="https://rsvp.duke.edu/event/qip2025">28th Annual Quantum Information Processing Conference (QIP 2025)</a>, Raleigh (USA), 27 February 2025. </li>
   <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one Correspondence between Deterministic Port-Based Teleportation and Unitary Estimation," <a href="https://rsvp.duke.edu/event/qip2025">28th Annual Quantum Information Processing Conference (QIP 2025)</a>, Raleigh (USA), 27 February 2025. </li>
   <li> Satoshi Yoshida, Shiro Tamiya, Hayata Yamasaki, "Concatenate codes, save qubits," <a href="https://tqc-conference.org">19th Conference On the Theory of Quantum Computation, Communication and Cryptography (TQC 2024)</a>, Okinawa (Japan), 13 September 2024. </li>
