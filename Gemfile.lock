@@ -143,8 +143,6 @@ GEM
       uglifier (~> 4.1)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
-    jekyll-polyglot (1.9.0)
-      jekyll (>= 4.0, >= 3.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-scholar (7.2.0)
@@ -286,7 +284,6 @@ DEPENDENCIES
   jekyll-link-attributes
   jekyll-minifier
   jekyll-paginate-v2
-  jekyll-polyglot
   jekyll-scholar
   jekyll-sitemap
   jekyll-twitter-plugin
