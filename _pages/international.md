@@ -35,6 +35,9 @@ nav_order: 1
 <h2>Posters</h2>
 
 <ol reversed>
+  <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one correspondence between deterministic port-based teleportation and unitary estimation," <a href="https://qmath.ku.dk/events/conferences/representation-theory-in-quantum-information-science/">QMATH Masterclass on Representation Theory in Quantum Information Science</a>, Copenhagen (Denmark), 19 August 2025. </li>
+  <li> Tatsuki Odake, Satoshi Yoshida, Mio Murao, "Analytical lower bound on query complexity for transformations of unknown 
+unitary operations," <a href="https://www.qi2025.jp/">Quantum Innovation 2025</a>, Osaka (Japan), 30 July 2025. </li>
   <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one correspondence between deterministic port-based teleportation and unitary estimation," <a href="https://icoqc2025.sciencesconf.org">The International Conference on Quantum Computing 2025 (ICoQC2025)</a>, Paris (France), 15 May 2025. </li>
   <li> Frédéric Grosshans, Michał Horodecki, Mio Murao, Tomasz Młynik, Marco Túlio Quintino, Michał Studziński, Satoshi Yoshida, "Multicopy quantum state teleportation with application to storage and retrieval of quantum programs," <a href="https://rsvp.duke.edu/event/qip2025">28th Annual Quantum Information Processing Conference (QIP 2025)</a>, Raleigh (USA), 27 February 2025. </li>
   <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one correspondence between deterministic port-based teleportation and unitary estimation," <a href="https://quantum-innovation.riken.jp/">Quantum Innovation 2024</a>, Tokyo (Japan), 22 October 2024. </li>
