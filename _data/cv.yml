@@ -111,7 +111,7 @@
 - title: Reviewing activities
   type: map
   contents:
-    - name: Reviewer for the journals
+    - name: Journals
       value: Optica, Physical Review A, Physical Review Letters, Physical Review Research, Quantum
-    - name: (Sub)reviewer for the conferences
+    - name: Conferences
       value: AQIS, Beyond IID, SODA, TQC, QEC, QIP
