@@ -19,7 +19,6 @@ social: true  # includes social icons at the bottom of the page
 [![orcid](https://img.shields.io/badge/ORCID-white?logo=orcid)](https://orcid.org/0000-0002-0521-5209)
 [![github](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/sy3104)
 [![x](https://img.shields.io/badge/X-black?logo=x)](https://x.com/sy_3104)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/satoshi-yoshida-107bb9286)
 
 
 I am a PhD student at [Department of Physics, The University of Tokyo](https://www.phys.s.u-tokyo.ac.jp/en/) supervised by Prof. Mio Murao ([group website](https://www.eve.phys.s.u-tokyo.ac.jp)).
