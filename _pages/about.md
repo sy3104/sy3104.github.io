@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 [![scholar](https://img.shields.io/badge/Google%20Scholar-white?logo=googlescholar)](https://scholar.google.com/citations?user=RALQ65cAAAAJ)
 [![orcid](https://img.shields.io/badge/ORCID-white?logo=orcid)](https://orcid.org/0000-0002-0521-5209)
 [![github](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/sy3104)
-[![x](https://img.shields.io/badge/-black?logo=x)](https://x.com/sy_3104)
+[![x](https://img.shields.io/badge/X-black?logo=x)](https://x.com/sy_3104)
 
 
 I am a PhD student at [Department of Physics, The University of Tokyo](https://www.phys.s.u-tokyo.ac.jp/en/) supervised by Prof. Mio Murao ([group website](https://www.eve.phys.s.u-tokyo.ac.jp)).
