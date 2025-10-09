@@ -35,7 +35,7 @@
   contents:
     - title: <a href="https://www.jsps.go.jp/english/e-pd/">JSPS Research Fellowships for Young Scientists (DC1)</a>
       institution: Japan Society for the Promotion of Science
-      description: JSPS KAKENHI Grant Number 23KJ0734, 4,200,000 JPY for three years.
+      description: JSPS KAKENHI Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 4,200,000 JPY for three years.
       year: Apr. 2023 - Mar. 2026
     - title: DAIKIN Fellowship
       institution: Institute for Physics of Intelligence, The University of Tokyo
@@ -46,7 +46,7 @@
       year: Apr. 2021 - present
     - title: <a href="https://www.s.u-tokyo.ac.jp/en/FoPM/">Forefront Physics and Mathematics Program to Drive Transformation (FoPM)</a>
       institution: The University of Tokyo
-      year: Aug. 2021 - Jan. 2022
+      year: Aug. 2021 - Mar. 2026
 
 - title: Internship
   type: time_table
@@ -74,6 +74,9 @@
   contents:
     - title: <a href="http://aqis-conf.org/2024/student-poster-awards">Student Poster Award (Gold Prize) in the 24th Asian Quantum Information Science Conference (AQIS24)</a>
       year: Aug. 2024
+    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">The School of Science Encouragement Award (Master program)</a>
+      institution: Graduate School of Science, The University of Tokyo
+      year: Mar. 2023
     - title: <a href="https://www.tsqs2022.org/assets/pdf/PosterAwardsWinners.pdf">Poster Award in the 2nd International Symposium on Trans-Scale Quantum Science</a>
       institution: TSQS2022 Organizing Committee
       year: Nov. 2022
@@ -81,6 +84,9 @@
       year: Feb. 2022
     - title: <a href="https://cmpss.jp/forepast/ss2021/awards.php">Best Poster Award in the 66th Condensed Matter Physics Summer School (物性若手夏の学校)</a>
       year: Aug. 2021
+    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award (Undergraduate program)</a>
+      institution: Faculty of Science, The University of Tokyo
+      year: Mar. 2021
     - title: <a href="https://www.s.u-tokyo.ac.jp/ja/info/8151/">Study and Visit Abroad Program (SVAP)</a>
       institution: Faculty of Science, The University of Tokyo
       year: Mar. 2020
