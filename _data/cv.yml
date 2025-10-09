@@ -30,6 +30,31 @@
       year: Apr. 2017 - Mar. 2021
       description: Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award</a>
 
+- title: Work
+  type: time_table
+  contents:
+    - title: Student Researcher
+      institution: Google Japan G.K.
+      year: Mar. 2024 - May 2024
+      description:
+        - Quantum Error Correction Protocols Team in Google Quantum AI
+        - 12 weeks (4th March 2024 - 24th May 2024)
+    - title: JSPS Research Fellow
+      institution: Department of Physics, Graduate School of Science, The University of Tokyo
+      year: Mar. 2023 - present
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant of Exercise in Physics IV
+      institution: The University of Tokyo
+      year: 2021
+    - title: Teaching Assistant of First-Year Seminar for Natural Sciences Students
+      institution: The University of Tokyo
+      year: 2021
+      description:
+        - as a part of Research Assistant of Q-Leap Human resources development
+
 - title: Fellowships
   type: time_table
   contents:
@@ -47,27 +72,6 @@
     - title: <a href="https://www.s.u-tokyo.ac.jp/en/FoPM/">Forefront Physics and Mathematics Program to Drive Transformation (FoPM)</a>
       institution: The University of Tokyo
       year: Aug. 2021 - Mar. 2026
-
-- title: Internship
-  type: time_table
-  contents:
-    - title: Student Researcher at Quantum Error Correction Protocols Team in Google Quantum AI
-      institution: Google Japan G.K.
-      year: 2024
-      description:
-        - 12 weeks (4th March 2024 - 24th May 2024)
-
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant of Exercise in Physics IV
-      institution: The University of Tokyo
-      year: 2021
-    - title: Teaching Assistant of First-Year Seminar for Natural Sciences Students
-      institution: The University of Tokyo
-      year: 2021
-      description:
-        - as a part of Research Assistant of Q-Leap Human resources development
 
 - title: Awards and Scholarships
   type: time_table
