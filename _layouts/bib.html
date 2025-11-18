@@ -74,10 +74,14 @@
       </div>
 
       <div class="periodical">
-      {% if entry.abbr == "arXiv" %}
-        arXiv:{{entry.arxiv}} ({{entry.year}}).
+      {% if entry.note %}
+        {{entry.note}}
       {% else %}
-        {{entry.journal}} <b>{{entry.volume}}</b>, {{entry.pages}} ({{entry.year}}).
+        {% if entry.abbr == "arXiv" %}
+          arXiv:{{entry.arxiv}} ({{entry.year}}).
+        {% else %}
+          {{entry.journal}} <b>{{entry.volume}}</b>, {{entry.pages}} ({{entry.year}}).
+        {% endif %}
       {% endif %}
       </div>
     {% endif %}
