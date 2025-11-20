@@ -1,0 +1,130 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Name
+      value: Satoshi Yoshida
+    - name: Position
+      value: PhD student
+    - name: Affiliation
+      value: Department of Physics, Graduate School of Science, The University of Tokyo
+    - name: Address
+      value: Hongo 7-3-1, Bunkyo-ku, Tokyo 113-0033 Japan
+    - name: Email
+      value: satoshiyoshida.phys [at] gmail.com
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD course in Physics
+      institution: Department of Physics, Graduate School of Science, The University of Tokyo
+      year: Apr. 2023 - present
+      description:
+        - "Supervisor: Prof. Mio Murao"
+    - title: Master of Science
+      institution: Department of Physics, Graduate School of Science, The University of Tokyo
+      year: Apr. 2021 - Mar. 2023
+      description:
+        - "Supervisor: Prof. Mio Murao"
+        - "Thesis: Higher-order quantum algorithms for universally inverting unitary and isometry operations"
+        - Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">The School of Science Encouragement Award</a>
+    - title: Bachelor of Science
+      institution: Department of Physics, Faculty of Science, The University of Tokyo
+      year: Apr. 2017 - Mar. 2021
+      description: Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award</a>
+
+- title: Work
+  type: time_table
+  contents:
+    - title: Intern (Student Researcher)
+      institution: Google Japan G.K.
+      year: Mar. 2024 - May 2024
+      description:
+        - Quantum Error Correction Protocols Team in Google Quantum AI
+        - 12 weeks (4th March 2024 - 24th May 2024)
+    - title: JSPS Research Fellow
+      institution: Department of Physics, Graduate School of Science, The University of Tokyo
+      year: Mar. 2023 - present
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant of Exercise in Physics IV
+      institution: The University of Tokyo
+      year: Apr. 2021 - Feb. 2022
+    - title: Teaching Assistant of First-Year Seminar for Natural Sciences Students
+      institution: The University of Tokyo
+      year: 2021
+      description:
+        - as a part of Research Assistant of Q-Leap Human resources development
+
+- title: Fellowships
+  type: time_table
+  contents:
+    - title: <a href="https://www.jsps.go.jp/english/e-pd/">JSPS Research Fellowships for Young Scientists (DC1)</a>
+      institution: Japan Society for the Promotion of Science
+      description: JSPS KAKENHI Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 4,200,000 JPY for three years.
+      year: Apr. 2023 - Mar. 2026
+    - title: DAIKIN Fellowship
+      institution: Institute for Physics of Intelligence, The University of Tokyo
+      description: "Grant: 1,500,000 JPY for 14 months (February 2022 - March 2023)."
+      year: Feb. 2022 - Mar. 2026
+    - title: <a href="https://www.s.u-tokyo.ac.jp/en/FoPM/">Forefront Physics and Mathematics Program to Drive Transformation (FoPM)</a>
+      institution: The University of Tokyo
+      year: Oct. 2021 - Jan. 2022
+    - title: Research Assistant of Q-Leap Human resources development
+      institution: The University of Tokyo
+      year: Apr. 2021 - Mar. 2026
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: <a href="http://aqis-conf.org/2024/student-poster-awards">Student Poster Award (Gold Prize) in the 24th Asian Quantum Information Science Conference (AQIS24)</a>
+      year: Aug. 2024
+    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">The School of Science Encouragement Award (Master program)</a>
+      institution: Graduate School of Science, The University of Tokyo
+      year: Mar. 2023
+    - title: <a href="https://www.tsqs2022.org/assets/pdf/PosterAwardsWinners.pdf">Poster Award in the 2nd International Symposium on Trans-Scale Quantum Science</a>
+      institution: TSQS2022 Organizing Committee
+      year: Nov. 2022
+    - title: <a href="https://www.ieice.org/es/qit/text/award/qit45award.pdf">Presentation Award for students in the 45th Quantum Information Technology Symposium (QIT45)</a>
+      year: Feb. 2022
+    - title: <a href="https://cmpss.jp/forepast/ss2021/awards.php">Best Poster Award in the 66th Condensed Matter Physics Summer School (物性若手夏の学校)</a>
+      year: Aug. 2021
+    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award (Undergraduate program)</a>
+      institution: Faculty of Science, The University of Tokyo
+      year: Mar. 2021
+    - title: <a href="https://www.s.u-tokyo.ac.jp/ja/info/8151/">Study and Visit Abroad Program (SVAP)</a>
+      institution: Faculty of Science, The University of Tokyo
+      year: Mar. 2020
+    - title: <a href="http://www.jpho.jp/2016/IPhO2016Swiss/2016IPhOresult-press-release.pdf">Gold medal in the 47th International Physics Olympiad (IPhO 2016)</a>
+      year: Jul. 2016
+    - title: <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">Silver medal in the 46th International Physics Olympiad (IPhO 2015)</a>
+      year: Jul. 2015
+
+- title: Technical Competitions
+  type: time_table
+  contents:
+    - title: Horizon Quantum Computing Hackathon
+      year: 2023
+      description: Invited to participate in the hackathon organized by Horizon Quantum Computing (Nov. 27, 2023 - Dec. 2, 2023).
+
+- title: Outreach
+  type: time_table
+  contents:
+    - title: 量⼦コンピュータによる時間のプログラミング (Programming of time using quantum computers)
+      description: Seminar for alumni of Osaka Seiko Gakuin High School (<a href="https://sites.google.com/view/tks2018">世の光応援団</a>).
+      year: Jun. 2024
+    - title: <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2019/">Physics Lab. 2019</a> and <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2020/about.html">2020</a>
+      description: Present the basics of the quantum information at the school festival of the University of Tokyo.
+      year: May 2019, May 2020
+    - title: <a href="http://www.jpho.jp/index_jpho.html">The Committee of Japan Physics Olympiad</a>
+      description: Work as a tutor for candidate high school students for the International Physics Olympiad.
+      year: Sep. 2017 - Aug. 2020
+
+- title: Reviewing activities
+  type: map
+  contents:
+    - name: Journals
+      value: Optica, Physical Review A, Physical Review Letters, Physical Review Research, Quantum
+    - name: Conferences
+      value: AQIS, Beyond IID, SODA, TQC, QEC, QIP
