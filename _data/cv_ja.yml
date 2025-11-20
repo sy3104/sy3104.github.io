@@ -1,49 +1,48 @@
 - title: 基本情報
   type: map
   contents:
-    - name: Name
-      value: Satoshi Yoshida
-    - name: Position
-      value: PhD student
-    - name: Affiliation
-      value: Department of Physics, Graduate School of Science, The University of Tokyo
-    - name: Address
-      value: Hongo 7-3-1, Bunkyo-ku, Tokyo 113-0033 Japan
-    - name: Email
+    - name: 氏名
+      value: 吉田 智治
+    - name: 職位
+      value: 博士課程学生
+    - name: 所属
+      value: 東京大学大学院理学系研究科物理学専攻
+    - name: 住所
+      value: 〒113-0033 東京都文京区本郷7-3-1
+    - name: メールアドレス
       value: satoshiyoshida.phys [at] gmail.com
 
-- title: Education
+- title: 学歴
   type: time_table
   contents:
-    - title: PhD course in Physics
-      institution: Department of Physics, Graduate School of Science, The University of Tokyo
-      year: Apr. 2023 - present
+    - title: 博士課程（物理学）
+      institution: 東京大学大学院理学系研究科物理学専攻
+      year: 2023年4月 - 現在
       description:
         - "Supervisor: Prof. Mio Murao"
-    - title: Master of Science
-      institution: Department of Physics, Graduate School of Science, The University of Tokyo
-      year: Apr. 2021 - Mar. 2023
+    - title: 修士（理学）
+      institution: 東京大学大学院理学系研究科物理学専攻
+      year: 2021年4月 - 2023年3月
       description:
-        - "Supervisor: Prof. Mio Murao"
-        - "Thesis: Higher-order quantum algorithms for universally inverting unitary and isometry operations"
-        - Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">The School of Science Encouragement Award</a>
-    - title: Bachelor of Science
-      institution: Department of Physics, Faculty of Science, The University of Tokyo
-      year: Apr. 2017 - Mar. 2021
-      description: Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award</a>
-
-- title: Work
+        - "指導教員: 村尾美緒教授"
+        - "修士論文: Higher-order quantum algorithms for universally inverting unitary and isometry operations"
+        - <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">東京大学理学系研究科研究奨励賞 (修士課程)</a>受賞
+    - title: 学士（理学）
+      institution: 東京大学理学部物理学科
+      year: 2017年4月 - 2021年3月
+      description: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">東京大学理学部学修奨励賞</a>受賞
+- title: 職歴
   type: time_table
   contents:
-    - title: Intern (Student Researcher)
+    - title: Intern
       institution: Google Japan G.K.
-      year: Mar. 2024 - May 2024
+      year: 2024年3月 - 2024年5月
       description:
         - Quantum Error Correction Protocols Team in Google Quantum AI
         - 12 weeks (4th March 2024 - 24th May 2024)
-    - title: JSPS Research Fellow
-      institution: Department of Physics, Graduate School of Science, The University of Tokyo
-      year: Mar. 2023 - present
+    - title: 日本学術振興会特別研究員 (DC1)
+      institution: 東京大学大学院理学系研究科物理学専攻
+      year: 2023年3月 - 現在
 
 - title: Teaching
   type: time_table
