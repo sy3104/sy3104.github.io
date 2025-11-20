@@ -19,7 +19,7 @@
       institution: 東京大学大学院理学系研究科物理学専攻
       year: 2023年4月 - 現在
       description:
-        - "Supervisor: Prof. Mio Murao"
+        - "指導教員: 村尾美緒教授"
     - title: 修士（理学）
       institution: 東京大学大学院理学系研究科物理学専攻
       year: 2021年4月 - 2023年3月
@@ -61,13 +61,13 @@
   contents:
     - title: <a href="https://www.jsps.go.jp/english/e-pd/">日本学術振興会特別研究員 (DC1)</a>
       institution: 日本学術振興会
-      description: JSPS KAKENHI Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 4,200,000円 (3年間).
+      description: JSPS科研費 <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 4,200,000円 (3年間).
       year: 2023年4月 - 2026年3月
     - title: 卓越リサーチアシスタント (ダイキンフェローシップ)
       institution: 東京大学大学院理学系研究科物理学専攻
       description: "研究費: 1,500,000円 (14ヶ月, 2022年2月 - 2023年3月)."
       year: 2022年2月 - 2023年3月
-    - title: 卓越リサーチアシスタント (<a href="https://www.s.u-tokyo.ac.jp/ja/FoPM/">変革を駆動する先端物理・数学プログラム (FoPM)</a>)
+    - title: 卓越リサーチアシスタント (<a href="https://www.s.u-tokyo.ac.jp/ja/FoPM/">変革を駆動する先端物理・数学プログラム</a>)
       institution: 東京大学大学院理学系研究科物理学専攻
       year: 2021年10月 - 2022年1月
     - title: 卓越リサーチアシスタント (Q-Leap人材育成)
@@ -85,9 +85,9 @@
     - title: <a href="https://www.tsqs2022.org/assets/pdf/PosterAwardsWinners.pdf">Poster Award in the 2nd International Symposium on Trans-Scale Quantum Science</a>
       institution: TSQS2022 Organizing Committee
       year: 2022年11月
-    - title: <a href="https://www.ieice.org/es/qit/text/award/qit45award.pdf">Presentation Award for students in the 45th Quantum Information Technology Symposium (QIT45)</a>
+    - title: <a href="https://www.ieice.org/es/qit/text/award/qit45award.pdf">学生発表賞, 第45回量子情報技術研究会 (QIT45)</a>
       year: 2022年2月
-    - title: <a href="https://cmpss.jp/forepast/ss2021/awards.php">Best Poster Award in the 66th Condensed Matter Physics Summer School (物性若手夏の学校)</a>
+    - title: <a href="https://cmpss.jp/forepast/ss2021/awards.php">最優秀ポスター賞, 第66回物性若手夏の学校</a>
       year: 2021年8月
     - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">理学部学修奨励賞</a>
       institution: 東京大学理学部
@@ -100,30 +100,30 @@
     - title: <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">銀メダル, 第46回国際物理オリンピック (IPhO 2015)</a>
       year: 2015年7月
 
-- title: Technical Competitions
+- title: コンペティション
   type: time_table
   contents:
     - title: Horizon Quantum Computing Hackathon
       year: 2023
-      description: Invited to participate in the hackathon organized by Horizon Quantum Computing (Nov. 27, 2023 - Dec. 2, 2023).
+      description: Horizon Quantum Computing主催のハッカソンに招待 (2023年11月27日 - 2023年12月2日).
 
 - title: Outreach
   type: time_table
   contents:
-    - title: 量⼦コンピュータによる時間のプログラミング (Programming of time using quantum computers)
-      description: Seminar for alumni of Osaka Seiko Gakuin High School (<a href="https://sites.google.com/view/tks2018">世の光応援団</a>).
-      year: Jun. 2024
+    - title: 量⼦コンピュータによる時間のプログラミング
+      description: 大阪星光学院高等学校の卒業生向けのセミナー(<a href="https://sites.google.com/view/tks2018">世の光応援団</a>)で講演
+      year: 2024年6月
     - title: <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2019/">Physics Lab. 2019</a> and <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2020/about.html">2020</a>
-      description: Present the basics of the quantum information at the school festival of the University of Tokyo.
-      year: May 2019, May 2020
-    - title: <a href="http://www.jpho.jp/index_jpho.html">The Committee of Japan Physics Olympiad</a>
-      description: Work as a tutor for candidate high school students for the International Physics Olympiad.
-      year: Sep. 2017 - Aug. 2020
+      description: 東京大学五月祭で量子情報の基礎についてポスター発表
+      year: 2019年5月, 2020年5月
+    - title: <a href="http://www.jpho.jp/index_jpho.html">物理オリンピック日本委員会</a>
+      description: 国際物理オリンピック代表候補の高校生に対する指導
+      year: 2017年9月 - 2020年8月
 
-- title: Reviewing activities
+- title: 査読
   type: map
   contents:
-    - name: Journals
+    - name: 雑誌
       value: Optica, Physical Review A, Physical Review Letters, Physical Review Research, Quantum
-    - name: Conferences
+    - name: 学会
       value: AQIS, Beyond IID, SODA, TQC, QEC, QIP
