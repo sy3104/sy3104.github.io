@@ -26,79 +26,79 @@
       description:
         - "指導教員: 村尾美緒教授"
         - "修士論文: Higher-order quantum algorithms for universally inverting unitary and isometry operations"
-        - <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">東京大学理学系研究科研究奨励賞 (修士課程)</a>受賞
+        - <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">理学系研究科研究奨励賞 (修士課程)</a>受賞
     - title: 学士（理学）
       institution: 東京大学理学部物理学科
       year: 2017年4月 - 2021年3月
-      description: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">東京大学理学部学修奨励賞</a>受賞
+      description: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">理学部学修奨励賞</a>受賞
 - title: 職歴
   type: time_table
   contents:
-    - title: Intern
+    - title: Intern (Student Researcher)
       institution: Google Japan G.K.
       year: 2024年3月 - 2024年5月
       description:
         - Quantum Error Correction Protocols Team in Google Quantum AI
-        - 12 weeks (4th March 2024 - 24th May 2024)
+        - 12週間 (2024年3月4日 - 2024年5月24日)
     - title: 日本学術振興会特別研究員 (DC1)
       institution: 東京大学大学院理学系研究科物理学専攻
       year: 2023年3月 - 現在
 
-- title: Teaching
+- title: 教育歴
   type: time_table
   contents:
-    - title: Teaching Assistant of Exercise in Physics IV
-      institution: The University of Tokyo
-      year: Apr. 2021 - Feb. 2022
-    - title: Teaching Assistant of First-Year Seminar for Natural Sciences Students
-      institution: The University of Tokyo
+    - title: ティーチングアシスタント (物理学演習IV)
+      institution: 東京大学大学院理学系研究科物理学専攻
+      year: 2021年4月 - 2022年2月
+    - title: ティーチングアシスタント (初年次ゼミナール理科)
+      institution: 東京大学
       year: 2021
       description:
-        - as a part of Research Assistant of Q-Leap Human resources development
+        - Q-Leap人材育成リサーチアシスタント業務の一環として担当
 
-- title: Fellowships
+- title: フェローシップ
   type: time_table
   contents:
-    - title: <a href="https://www.jsps.go.jp/english/e-pd/">JSPS Research Fellowships for Young Scientists (DC1)</a>
-      institution: Japan Society for the Promotion of Science
-      description: JSPS KAKENHI Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 4,200,000 JPY for three years.
-      year: Apr. 2023 - Mar. 2026
-    - title: DAIKIN Fellowship
-      institution: Institute for Physics of Intelligence, The University of Tokyo
-      description: "Grant: 1,500,000 JPY for 14 months (February 2022 - March 2023)."
-      year: Feb. 2022 - Mar. 2026
-    - title: <a href="https://www.s.u-tokyo.ac.jp/en/FoPM/">Forefront Physics and Mathematics Program to Drive Transformation (FoPM)</a>
-      institution: The University of Tokyo
-      year: Oct. 2021 - Jan. 2022
-    - title: Research Assistant of Q-Leap Human resources development
-      institution: The University of Tokyo
-      year: Apr. 2021 - Mar. 2026
+    - title: <a href="https://www.jsps.go.jp/english/e-pd/">日本学術振興会特別研究員 (DC1)</a>
+      institution: 日本学術振興会
+      description: JSPS KAKENHI Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 4,200,000円 (3年間).
+      year: 2023年4月 - 2026年3月
+    - title: 卓越リサーチアシスタント (ダイキンフェローシップ)
+      institution: 東京大学大学院理学系研究科物理学専攻
+      description: "研究費: 1,500,000円 (14ヶ月, 2022年2月 - 2023年3月)."
+      year: 2022年2月 - 2023年3月
+    - title: 卓越リサーチアシスタント (<a href="https://www.s.u-tokyo.ac.jp/ja/FoPM/">変革を駆動する先端物理・数学プログラム (FoPM)</a>)
+      institution: 東京大学大学院理学系研究科物理学専攻
+      year: 2021年10月 - 2022年1月
+    - title: 卓越リサーチアシスタント (Q-Leap人材育成)
+      institution: 東京大学大学院理学系研究科物理学専攻
+      year: 2021年4月 - 2026年3月
 
-- title: Awards
+- title: 受賞
   type: time_table
   contents:
     - title: <a href="http://aqis-conf.org/2024/student-poster-awards">Student Poster Award (Gold Prize) in the 24th Asian Quantum Information Science Conference (AQIS24)</a>
-      year: Aug. 2024
-    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">The School of Science Encouragement Award (Master program)</a>
-      institution: Graduate School of Science, The University of Tokyo
-      year: Mar. 2023
+      year: 2024年8月
+    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">理学系研究科研究奨励賞 (修士課程)</a>
+      institution: 東京大学大学院理学系研究科
+      year: 2023年3月
     - title: <a href="https://www.tsqs2022.org/assets/pdf/PosterAwardsWinners.pdf">Poster Award in the 2nd International Symposium on Trans-Scale Quantum Science</a>
       institution: TSQS2022 Organizing Committee
-      year: Nov. 2022
+      year: 2022年11月
     - title: <a href="https://www.ieice.org/es/qit/text/award/qit45award.pdf">Presentation Award for students in the 45th Quantum Information Technology Symposium (QIT45)</a>
-      year: Feb. 2022
+      year: 2022年2月
     - title: <a href="https://cmpss.jp/forepast/ss2021/awards.php">Best Poster Award in the 66th Condensed Matter Physics Summer School (物性若手夏の学校)</a>
-      year: Aug. 2021
-    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award (Undergraduate program)</a>
-      institution: Faculty of Science, The University of Tokyo
-      year: Mar. 2021
-    - title: <a href="https://www.s.u-tokyo.ac.jp/ja/info/8151/">Study and Visit Abroad Program (SVAP)</a>
-      institution: Faculty of Science, The University of Tokyo
-      year: Mar. 2020
-    - title: <a href="http://www.jpho.jp/2016/IPhO2016Swiss/2016IPhOresult-press-release.pdf">Gold medal in the 47th International Physics Olympiad (IPhO 2016)</a>
-      year: Jul. 2016
-    - title: <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">Silver medal in the 46th International Physics Olympiad (IPhO 2015)</a>
-      year: Jul. 2015
+      year: 2021年8月
+    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">理学部学修奨励賞</a>
+      institution: 東京大学理学部
+      year: 2021年3月
+    - title: <a href="https://www.s.u-tokyo.ac.jp/ja/info/8151/">理学部学生国際派遣プログラム (SVAP)</a>
+      institution: 東京大学理学部
+      year: 2020年3月
+    - title: <a href="http://www.jpho.jp/2016/IPhO2016Swiss/2016IPhOresult-press-release.pdf">金メダル, 第47回国際物理オリンピック (IPhO 2016)</a>
+      year: 2016年7月
+    - title: <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">銀メダル, 第46回国際物理オリンピック (IPhO 2015)</a>
+      year: 2015年7月
 
 - title: Technical Competitions
   type: time_table
