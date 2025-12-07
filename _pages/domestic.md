@@ -11,6 +11,7 @@ nav_order: 1
 <h2>Contributed talks</h2>
 
 <ol reversed>
+  <li> Dmitry Grinko, Satoshi Yoshida, Mio Murao, Maris Ozols, "Efficient implementation of sequential quantum processes with group symmetry," <a href="https://www.ieice.org/es/qit/qit53/">第53回量子情報技術研究会 (QIT53)</a>, 神奈川県, 4 December 2025. </li>
   <li> 吉田智治, 添田彬仁, 村尾美緒, "Optimal protocols for universal adjointation of isometry operations --Protocol design by quantum supersupermaps--," <a href="https://www.ieice.org/es/qit/qit49/">第49回量子情報技術研究会 (QIT49)</a>, 沖縄県, 18 December 2023. </li>
   <li> 吉田智治, "量⼦コンピュータを⽤いた「時間反転」のシミュレーション," <a href="https://www.phys.s.u-tokyo.ac.jp/about/39182/">ipi-ダイキン シンポジウム</a>, 東京都, 25 October 2023. </li>
   <li> 吉田智治, 添田彬仁, 村尾美緒, "ユニタリ変換およびアイソメトリ変換を普遍的に反転する高階量子アルゴリズム," <a href="https://quangaroo.web.fc2.com/meetings/33/meeting.html">第33回量子情報関東Student Chapter</a>, online, 31 March 2023. </li>
