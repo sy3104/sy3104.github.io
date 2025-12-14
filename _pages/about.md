@@ -33,7 +33,7 @@ with the techniques based on
 - Group theory, Representation theory
 - Stabilizer simulations
 
-[東京大学理学系研究科物理学専攻]((https://www.phys.s.u-tokyo.ac.jp))、[村尾研究室](https://www.eve.phys.s.u-tokyo.ac.jp)の博士課程に在籍しています。
+[東京大学理学系研究科物理学専攻](https://www.phys.s.u-tokyo.ac.jp)、[村尾研究室](https://www.eve.phys.s.u-tokyo.ac.jp)の博士課程に在籍しています。
 
 以下の研究テーマに興味があります。
 - 量子情報理論
