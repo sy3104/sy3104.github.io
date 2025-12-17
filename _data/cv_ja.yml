@@ -126,4 +126,4 @@
     - name: 雑誌
       value: Optica, Physical Review A, Physical Review Letters, Physical Review Research, Quantum
     - name: 学会
-      value: AQIS, Beyond IID, SODA, TQC, QEC, QIP
+      value: AQIS, Beyond IID, SODA, STOC, TQC, QEC, QIP
