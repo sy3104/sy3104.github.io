@@ -17,7 +17,8 @@ nav_order: 1
 <h2>Contributed talks</h2>
 
 <ol reversed>
-  <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one Correspondence between Deterministic Port-Based Teleportation and Unitary Estimation," <a href="https://sites.google.com/view/beyondiid13">13th Beyond IID in Information Theory </a>, Garching (Germany), 18 July 2025. </li>
+  <li> Dmitry Grinko, Satoshi Yoshida, Mio Murao, Maris Ozols, "Sequential quantum processes with group symmetry and simulation of random unitaries," <a href="https://qip2026.lu.lv">29th Annual Quantum Information Processing Conference (QIP 2026)</a>, Riga (Latvia), 29 January 2026. </li>
+  <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one Correspondence between Deterministic Port-Based Teleportation and Unitary Estimation," <a href="https://sites.google.com/view/beyondiid13">13th Beyond IID in Information Theory</a>, Garching (Germany), 18 July 2025. </li>
   <li> Tatsuki Odake, Satoshi Yoshida, Mio Murao, "Analytical lower bound on the number of queries to a black-box unitary operation in deterministic exact transformations of unknown unitary operations," <a href="https://rsvp.duke.edu/event/qip2025">28th Annual Quantum Information Processing Conference (QIP 2025)</a>, Raleigh (USA), 27 February 2025. </li>
   <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one Correspondence between Deterministic Port-Based Teleportation and Unitary Estimation," <a href="https://rsvp.duke.edu/event/qip2025">28th Annual Quantum Information Processing Conference (QIP 2025)</a>, Raleigh (USA), 27 February 2025. </li>
   <li> Satoshi Yoshida, Shiro Tamiya, Hayata Yamasaki, "Concatenate codes, save qubits," <a href="https://tqc-conference.org">19th Conference On the Theory of Quantum Computation, Communication and Cryptography (TQC 2024)</a>, Okinawa (Japan), 13 September 2024. </li>
@@ -35,6 +36,8 @@ nav_order: 1
 <h2>Posters</h2>
 
 <ol reversed>
+  <li> Satoshi Yoshida, Hironobu Yoshida, Mio Murao, "Asymptotically optimal unitary estimation in SU(3) by the analysis of graph Laplacian," <a href="https://qip2026.lu.lv">29th Annual Quantum Information Processing Conference (QIP 2026)</a>, Riga (Latvia), 26 January 2026. </li>
+  <li> Satoshi Yoshida, Jisho Miyazaki, Mio Murao, "Quantum advantage in storage and retrieval of isometry channels," <a href="https://qip2026.lu.lv">29th Annual Quantum Information Processing Conference (QIP 2026)</a>, Riga (Latvia), 26 January 2026. </li>
   <li> Satoshi Yoshida, Yuki Koizumi, Michał Studziński, Marco Túlio Quintino, Mio Murao, "One-to-one correspondence between deterministic port-based teleportation and unitary estimation," <a href="https://qmath.ku.dk/events/conferences/representation-theory-in-quantum-information-science/">QMATH Masterclass on Representation Theory in Quantum Information Science</a>, Copenhagen (Denmark), 19 August 2025. </li>
   <li> Tatsuki Odake, Satoshi Yoshida, Mio Murao, "Analytical lower bound on query complexity for transformations of unknown 
 unitary operations," <a href="https://www.qi2025.jp/">Quantum Innovation 2025</a>, Osaka (Japan), 30 July 2025. </li>
