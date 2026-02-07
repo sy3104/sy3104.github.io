@@ -9,6 +9,7 @@ nav_order: 1
 <div class="publications">
 
 <ol reversed>
+  <li>  "Group theoretical analysis of higher-order quantum transformations", Quantum Software Lab, The University of Edinburgh, 3 February 2026. </li>
   <li>  "Analytical lower bound on query complexity for universal transformation of unitary operations", QI-LIP6, Sorbonne Université, 21 May 2025. </li>
   <li>  "Analytical lower bound on query complexity for universal transformation of unitary operations", QuSoft seminar, The University of Amsterdam, 20 February 2025. </li>
   <li>  "One-to-one correspondence between deterministic port-based teleportation and unitary estimation", QICI seminar, The University of Hong Kong, 6 December 2024. </li>

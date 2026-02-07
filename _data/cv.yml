@@ -124,6 +124,6 @@
   type: map
   contents:
     - name: Journals
-      value: Optica, Physical Review A, Physical Review Letters, Physical Review Research, Quantum
+      value: Communications Physics, Optica, Physical Review A, Physical Review Letters, Physical Review Research, Quantum
     - name: Conferences
-      value: AQIS, Beyond IID, SODA, STOC, TQC, QEC, QIP
+      value: AQIS, Beyond IID, SODA, STOC, TQC, QCTiP, QEC, QIP
