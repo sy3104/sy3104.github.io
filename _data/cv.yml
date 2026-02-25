@@ -35,15 +35,15 @@
 - title: Work
   type: time_table
   contents:
+    - title: JSPS Research Fellow
+      institution: Department of Physics, Graduate School of Science, The University of Tokyo
+      year: Mar. 2023 - present
     - title: Intern (Student Researcher)
       institution: Google Japan G.K.
       year: Mar. 2024 - May 2024
       description:
         - Quantum Error Correction Protocols Team in Google Quantum AI
         - 12 weeks (4th March 2024 - 24th May 2024)
-    - title: JSPS Research Fellow
-      institution: Department of Physics, Graduate School of Science, The University of Tokyo
-      year: Mar. 2023 - present
 
 - title: Teaching
   type: time_table
