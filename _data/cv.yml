@@ -15,21 +15,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Physics
+    - title: PhD in Physics
       institution: Department of Physics, Graduate School of Science, The University of Tokyo
       year: Apr. 2023 - Mar. 2026
       description:
         - "Supervisor: Prof. Mio Murao"
         - "Thesis: Group theoretical analysis of higher-order quantum algorithms"
         - Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/48927/">The School of Science Encouragement Award</a>
-    - title: M.Sc. in Physics
+    - title: MSc in Physics
       institution: Department of Physics, Graduate School of Science, The University of Tokyo
       year: Apr. 2021 - Mar. 2023
       description:
         - "Supervisor: Prof. Mio Murao"
         - "Thesis: Higher-order quantum algorithms for universally inverting unitary and isometry operations"
         - Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">The School of Science Encouragement Award</a>
-    - title: B.Sc. in Physics
+    - title: BSc in Physics
       institution: Department of Physics, Faculty of Science, The University of Tokyo
       year: Apr. 2017 - Mar. 2021
       description: Graduated with <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">The School of Science Encouragement Award</a>
