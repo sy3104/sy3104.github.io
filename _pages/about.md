@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 [![x](https://img.shields.io/badge/X-black?logo=x)](https://x.com/sy_3104)
 
 
-I am a PhD student at [Department of Physics, The University of Tokyo](https://www.phys.s.u-tokyo.ac.jp/en/) supervised by Prof. Mio Murao ([group website](https://www.eve.phys.s.u-tokyo.ac.jp)).
+I am an assistant professor at [Department of Physics, The University of Tokyo](https://www.phys.s.u-tokyo.ac.jp/en/) in the group of Prof. Mio Murao ([group website](https://www.eve.phys.s.u-tokyo.ac.jp)).
 
 My research topic is on
 - Quantum information theory
@@ -33,7 +33,7 @@ with the techniques based on
 - Group theory, Representation theory
 - Stabilizer simulations
 
-[東京大学理学系研究科物理学専攻](https://www.phys.s.u-tokyo.ac.jp)、[村尾研究室](https://www.eve.phys.s.u-tokyo.ac.jp)の博士課程に在籍しています。
+[東京大学理学系研究科物理学専攻](https://www.phys.s.u-tokyo.ac.jp)、[村尾研究室](https://www.eve.phys.s.u-tokyo.ac.jp)に助教として所属しています。
 
 以下の研究テーマに興味があります。
 - 量子情報理論
