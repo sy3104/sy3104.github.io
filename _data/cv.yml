@@ -44,11 +44,8 @@
       institution: Department of Physics, Graduate School of Science, The University of Tokyo
       year: Apr. 2023 - Mar. 2026
     - title: Intern (Student Researcher)
-      institution: Google Japan G.K.
+      institution: Google Quantum AI, Google Japan G.K.
       year: Mar. 2024 - May 2024
-      description:
-        - Quantum Error Correction Protocols Team in Google Quantum AI
-        - 12 weeks (4th March 2024 - 24th May 2024)
 
 - title: Teaching
   type: time_table
