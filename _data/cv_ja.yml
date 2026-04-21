@@ -49,12 +49,12 @@
 - title: 教育歴
   type: map
   contents:
-    - name:講義
+    - name: 講義
       value: |
         <ol reversed>
           <li>理論演習I, 東京大学, AY2026.</li>
         </ol>
-    - name:ティーチングアシスタント
+    - name: ティーチングアシスタント
       value: |
         <ol reversed>
           <li>物理学演習IV, 東京大学, AY2021.</li>
