@@ -61,72 +61,77 @@
           <li>初年次ゼミナール理科, 東京大学, AY2021.</li>
         </ol>
 
-- title: フェローシップ
-  type: time_table
+- title: 受賞、フェローシップ、コンペティション
+  type: map
   contents:
-    - title: <a href="https://www.jsps.go.jp/english/e-pd/">日本学術振興会特別研究員 (DC1)</a>
-      institution: 日本学術振興会
-      description: JSPS科研費 <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 420万円/3年.
-      year: 2023年4月 - 2026年3月
-    - title: 卓越リサーチアシスタント (ダイキンフェローシップ)
-      institution: 東京大学大学院理学系研究科物理学専攻
-      description: 研究費 150万円/14ヶ月
-      year: 2022年2月 - 2026年3月
-    - title: 卓越リサーチアシスタント (<a href="https://www.s.u-tokyo.ac.jp/ja/FoPM/">変革を駆動する先端物理・数学プログラム</a>)
-      institution: 東京大学大学院理学系研究科物理学専攻
-      year: 2021年10月 - 2022年1月
-    - title: 卓越リサーチアシスタント (Q-Leap人材育成)
-      institution: 東京大学大学院理学系研究科物理学専攻
-      year: 2021年4月 - 2026年3月
-
-- title: 受賞
-  type: time_table
-  contents:
-    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/48927/">理学系研究科研究奨励賞 (博士課程)</a>
-      institution: 東京大学大学院理学系研究科
-      year: 2026年3月
-    - title: <a href="http://aqis-conf.org/2024/student-poster-awards">Student Poster Award (Gold Prize) in the 24th Asian Quantum Information Science Conference (AQIS24)</a>
-      year: 2024年8月
-    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">理学系研究科研究奨励賞 (修士課程)</a>
-      institution: 東京大学大学院理学系研究科
-      year: 2023年3月
-    - title: <a href="https://www.tsqs2022.org/assets/pdf/PosterAwardsWinners.pdf">Poster Award in the 2nd International Symposium on Trans-Scale Quantum Science</a>
-      institution: TSQS2022 Organizing Committee
-      year: 2022年11月
-    - title: <a href="https://www.ieice.org/es/qit/text/award/qit45award.pdf">学生発表賞, 第45回量子情報技術研究会 (QIT45)</a>
-      year: 2022年2月
-    - title: <a href="https://cmpss.jp/forepast/ss2021/awards.php">最優秀ポスター賞, 第66回物性若手夏の学校</a>
-      year: 2021年8月
-    - title: <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">理学部学修奨励賞</a>
-      institution: 東京大学理学部
-      year: 2021年3月
-    - title: <a href="https://www.s.u-tokyo.ac.jp/ja/info/8151/">理学部学生国際派遣プログラム (SVAP)</a>
-      institution: 東京大学理学部
-      year: 2020年3月
-    - title: <a href="http://www.jpho.jp/2016/IPhO2016Swiss/2016IPhOresult-press-release.pdf">金メダル, 第47回国際物理オリンピック (IPhO 2016)</a>
-      year: 2016年7月
-    - title: <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">銀メダル, 第46回国際物理オリンピック (IPhO 2015)</a>
-      year: 2015年7月
-
-- title: コンペティション
-  type: time_table
-  contents:
-    - title: Horizon Quantum Computing Hackathon
-      year: 2023
-      description: Horizon Quantum Computing主催のハッカソンに招待 (2023年11月27日 - 2023年12月2日).
+    - name: 受賞
+      value: |
+        <ol reversed>
+          <li>
+            <a href="https://www.phys.s.u-tokyo.ac.jp/award/48927/">理学系研究科研究奨励賞 (博士課程)</a>, 東京大学大学院理学系研究科, 2026年3月.
+          </li>
+          <li>
+            <a href="http://aqis-conf.org/2024/student-poster-awards">Student Poster Award (Gold Prize) in AQIS24</a>, August 2024.
+          </li>
+          <li>
+            <a href="https://www.phys.s.u-tokyo.ac.jp/award/37776/">理学系研究科研究奨励賞 (修士課程)</a>, 東京大学大学院理学系研究科, 2023年3月.
+          </li>
+          <li>
+            <a href="https://www.tsqs2022.org/assets/pdf/PosterAwardsWinners.pdf">Poster Award (TSQS2022)</a>, TSQS2022 Organizing Committee, 2022年11月.
+          </li>
+          <li>
+            <a href="https://www.ieice.org/es/qit/text/award/qit45award.pdf">学生発表賞 (QIT45)</a>, 2022年2月.
+          </li>
+          <li>
+            <a href="https://cmpss.jp/forepast/ss2021/awards.php">最優秀ポスター賞 (物性若手夏の学校)</a>, 2021年8月.
+          </li>
+          <li>
+            <a href="https://www.phys.s.u-tokyo.ac.jp/award/27300/">理学部学修奨励賞</a>, 東京大学理学部, 2021年3月.
+          </li>
+          <li>
+            <a href="https://www.s.u-tokyo.ac.jp/ja/info/8151/">理学部学生国際派遣プログラム (SVAP)</a>, 東京大学理学部, 2020年3月.
+          </li>
+          <li>
+            <a href="http://www.jpho.jp/2016/IPhO2016Swiss/2016IPhOresult-press-release.pdf">金メダル (IPhO 2016)</a>, 2016年7月.
+          </li>
+          <li>
+            <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">銀メダル (IPhO 2015)</a>, 2015年7月.
+          </li>
+        </ol>
+    - name: フェローシップ
+      value: |
+        <ol reversed>
+          <li>
+            <a href="https://www.jsps.go.jp/english/e-pd/">日本学術振興会特別研究員 (DC1)</a>, 日本学術振興会, 2023年4月 - 2026年3月, JSPS科研費 <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 420万円/3年.
+          </li>
+          <li>
+            卓越リサーチアシスタント (ダイキンフェローシップ), 東京大学大学院理学系研究科物理学専攻, 2022年2月 - 2026年3月, 研究費 150万円/14ヶ月.
+          </li>
+          <li>
+            卓越リサーチアシスタント (<a href="https://www.s.u-tokyo.ac.jp/ja/FoPM/">変革を駆動する先端物理・数学プログラム</a>), 東京大学大学院理学系研究科物理学専攻, 2021年10月 - 2022年1月.
+          </li>
+          <li>
+            卓越リサーチアシスタント (Q-Leap人材育成), 東京大学大学院理学系研究科物理学専攻, 2021年4月 - 2026年3月.
+          </li>
+        </ol>
+    - name: コンペティション
+      value: |
+        <ol reversed>
+          <li>
+            Invited to Horizon Quantum Computing Hackathon (2023年11月27日 - 2023年12月2日).
+          </li>
+        </ol>
 
 - title: アウトリーチ
-  type: time_table
+  type: map
   contents:
-    - title: 量⼦コンピュータによる時間のプログラミング
-      description: 大阪星光学院高等学校の卒業生向けのセミナー(<a href="https://sites.google.com/view/tks2018">世の光応援団</a>)で講演
-      year: 2024年6月
-    - title: <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2019/">Physics Lab. 2019</a> and <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2020/about.html">2020</a>
-      description: 東京大学五月祭で量子情報の基礎についてポスター発表
-      year: 2019年5月, 2020年5月
-    - title: <a href="http://www.jpho.jp/index_jpho.html">物理オリンピック日本委員会</a>
-      description: 国際物理オリンピック代表候補の高校生に対する指導
-      year: 2017年9月 - 2020年8月
+    - name:
+      value: |
+        <ol reversed>
+          <li> 量⼦コンピュータによる時間のプログラミング, 大阪星光学院高等学校の卒業生向けのセミナー(<a href="https://sites.google.com/view/tks2018">世の光応援団</a>)で講演, 2024年6月 </li>
+          <li> <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2019/">Physics Lab. 2019</a> and <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2020/about.html">2020</a>, 東京大学五月祭で量子情報の基礎についてポスター発表, 2019年5月, 2020年5月. </li>
+          <li> <a href="http://www.jpho.jp/index_jpho.html">物理オリンピック日本委員会</a>, 国際物理オリンピック代表候補の高校生に対する指導, 2017年9月 - 2020年8月. </li>
+        </ol>
 
 - title: 査読
   type: map
