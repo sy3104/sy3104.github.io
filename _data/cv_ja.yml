@@ -47,16 +47,14 @@
       year: 2024年3月 - 2024年5月
 
 - title: 教育歴
-  type: time_table
+  type: map
   contents:
-    - title: ティーチングアシスタント (物理学演習IV)
-      institution: 東京大学大学院理学系研究科物理学専攻
-      year: 2021年4月 - 2022年2月
-    - title: ティーチングアシスタント (初年次ゼミナール理科)
-      institution: 東京大学
-      year: 2021
-      description:
-        - Q-Leap人材育成リサーチアシスタント業務の一環として担当
+    - value:
+      <ol reversed>
+        <li> 理論演習I, 東京大学, AY2026. </li>
+        <li> ティーチングアシスタント (物理学演習IV), 東京大学, AY2021. </li>
+        <li> ティーチングアシスタント (初年次ゼミナール理科), 東京大学, AY2021. </li>
+      </ol>
 
 - title: フェローシップ
   type: time_table
