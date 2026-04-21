@@ -50,12 +50,12 @@
   type: map
   contents:
     - name: 講義
-      value:|
+      value: |
         <ol reversed>
           <li>理論演習I, 東京大学, AY2026.</li>
         </ol>
     - name: ティーチングアシスタント
-      value:|
+      value: |
         <ol reversed>
           <li>物理学演習IV, 東京大学, AY2021.</li>
           <li>初年次ゼミナール理科, 東京大学, AY2021.</li>
