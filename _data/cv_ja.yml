@@ -49,7 +49,7 @@
 - title: 教育歴
   type: map
   contents:
-    - value:
+    - value:|
       <ol reversed>
         <li> 理論演習I, 東京大学, AY2026. </li>
         <li> ティーチングアシスタント (物理学演習IV), 東京大学, AY2021. </li>
