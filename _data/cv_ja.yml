@@ -54,7 +54,7 @@
         <ol reversed>
           <li>理論演習I, 東京大学, AY2026.</li>
         </ol>
-    - name: ティーチングアシスタント
+    - name: TA
       value: |
         <ol reversed>
           <li>物理学演習IV, 東京大学, AY2021.</li>
@@ -128,6 +128,7 @@
     - name:
       value: |
         <ol reversed>
+          <li> プレスリリース: "<a href="https://www.s.u-tokyo.ac.jp/ja/press/11138/">量子演算の効率的な保存・再生</a>" (英語訳: "<a href="https://www.s.u-tokyo.ac.jp/en/press/11138/">Efficient storage and retrieval of quantum operations</a>"), 東京大学大学院理学系研究科, 2026年5月. </li>
           <li> 量⼦コンピュータによる時間のプログラミング, 大阪星光学院高等学校の卒業生向けのセミナー(<a href="https://sites.google.com/view/tks2018">世の光応援団</a>)で講演, 2024年6月 </li>
           <li> <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2019/">Physics Lab. 2019</a> and <a href="https://event.phys.s.u-tokyo.ac.jp/physlab2020/about.html">2020</a>, 東京大学五月祭で量子情報の基礎についてポスター発表, 2019年5月, 2020年5月. </li>
           <li> <a href="http://www.jpho.jp/index_jpho.html">物理オリンピック日本委員会</a>, 国際物理オリンピック代表候補の高校生に対する指導, 2017年9月 - 2020年8月. </li>
