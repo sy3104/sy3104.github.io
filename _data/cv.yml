@@ -53,6 +53,7 @@
     - name: Lecture
       value: |
         <ol reversed>
+          <li>Quantum Information and Quantum Computation (Guest speaker), The University of Tokyo, AY2026.</li>
           <li>Theoretical Physics Exercise I, The University of Tokyo, AY2026.</li>
         </ol>
     - name: TA

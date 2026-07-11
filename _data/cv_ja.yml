@@ -52,6 +52,7 @@
     - name: 講義
       value: |
         <ol reversed>
+          <li>量子情報と量子計算 (ゲスト講演者), 東京大学, AY2026.</li>
           <li>理論演習I, 東京大学, AY2026.</li>
         </ol>
     - name: TA
