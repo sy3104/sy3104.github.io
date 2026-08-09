@@ -62,9 +62,22 @@
           <li>初年次ゼミナール理科, 東京大学, AY2021.</li>
         </ol>
 
-- title: 受賞、フェローシップ、コンペティション
+- title: 研究費、受賞、フェローシップ、コンペティション
   type: map
   contents:
+    - name: 研究費
+      value: |
+        <ol reversed>
+          <li>
+            JSPS科研費（研究活動スタート支援） <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K25550/">26K25550</a>, 200万円 (2026年7月 - 2028年3月).
+          </li>
+          <li>
+            JSPS科研費（特別研究員奨励費） <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 420万円 (2023年4月 - 2026年3月).
+          </li>
+          <li>
+            ダイキンフェローシップ, 150万円 (2022年2月 - 2023年3月).
+          </li>
+        </ol>
     - name: 受賞
       value: |
         <ol reversed>
@@ -97,19 +110,6 @@
           </li>
           <li>
             <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">銀メダル (IPhO 2015)</a>, 2015年7月.
-          </li>
-        </ol>
-    - name: 研究費
-      value: |
-        <ol reversed>
-          <li>
-            JSPS科研費（研究活動スタート支援） <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K25550/">26K25550</a>, 260万円 (2026年7月 - 2028年3月).
-          </li>
-          <li>
-            JSPS科研費（特別研究員奨励費） <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 420万円 (2023年4月 - 2026年3月).
-          </li>
-          <li>
-            ダイキンフェローシップ, 150万円 (2022年2月 - 2023年3月).
           </li>
         </ol>
     - name: フェローシップ

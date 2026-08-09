@@ -63,9 +63,22 @@
           <li>First-Year Seminar for Natural Sciences Students, The University of Tokyo, AY2021.</li>
         </ol>
 
-- title: Awards, Fellowships, and Technical Competitions
+- title: Grants, Awards, Fellowships, and Technical Competitions
   type: map
   contents:
+    - name: Grants
+      value: |
+        <ol reversed>
+          <li>
+            JSPS KAKENHI (Grant-in-Aid for Research Activity Start-up) Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K25550">26K25550</a>, 2.0 M JPY (July 2026 - March 2027).
+          </li>
+          <li>
+            JSPS KAKENHI (Grant-in-Aid for JSPS Fellows) Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 4.2 M JPY (April 2023 - March 2026).
+          </li>
+          <li>
+            DAIKIN Fellowship, 1.5 M JPY (February 2022 - March 2023).
+          </li>
+        </ol>
     - name: Awards
       value: |
         <ol reversed>
@@ -98,19 +111,6 @@
           </li>
           <li>
             <a href="http://www.jpho.jp/2015/IPhO2015-India/IPhO2015-Result-PressRelease.pdf">Silver medal in the 46th International Physics Olympiad (IPhO 2015)</a>, July 2015.
-          </li>
-        </ol>
-    - name: Grants
-      value: |
-        <ol reversed>
-          <li>
-            JSPS KAKENHI (Grant-in-Aid for Research Activity Start-up) Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K25550">26K25550</a>, 2.6 M JPY (July 2026 - March 2027).
-          </li>
-          <li>
-            JSPS KAKENHI (Grant-in-Aid for JSPS Fellows) Grant Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23KJ0734/">23KJ0734</a>, 4.2 M JPY (April 2023 - March 2026).
-          </li>
-          <li>
-            DAIKIN Fellowship, 1.5 M JPY (February 2022 - March 2023).
           </li>
         </ol>
     - name: Fellowships
