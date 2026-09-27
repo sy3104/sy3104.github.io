@@ -11,6 +11,7 @@ nav_order: 1
 <h2>Invited talks</h2>
 
 <ol reversed>
+  <li> Satoshi Yoshida, Ethan Lake, Hayata Yamasaki, "Proof of a finite threshold for the union-find decoder," <a href="https://sites.google.com/view/2026-yitp-logical-processing/home">2026 YITP QEC Workshop Fault-tolerant logical processing</a>, Kyoto (Japan), 28 September 2026. </li>
   <li> Satoshi Yoshida, Akihito Soeda, Mio Murao, "Universal inversion of unitary and isometry operations: deterministic and exact algorithms," <a href="https://jsps-seminar.org/">JSPS Japan-Singapore International Joint Seminar 2023</a>, Tokyo (Japan), 21 February 2023. </li>
 </ol>
 
